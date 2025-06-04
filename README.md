@@ -1,0 +1,1 @@
+# QA-in-pdf-using-pinecone-chatgpt
